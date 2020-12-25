@@ -1,8 +1,12 @@
 [
     {
-        "name": "Nahuel",
-        "inscriptionDay": 14,
-        "inscriptionMonth": 3,
-        "inscriptionYear": 2020
+        "names": "Nahuel",
+        "lastName": "",
+        "direction": "",
+        "dni": "",
+        "cellphone": "",
+        "alternativeCellphone": "",
+        "email": "",
+        "observations": ""
     }
 ]
