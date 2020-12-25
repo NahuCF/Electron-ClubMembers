@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browserify": "^17.0.0",
     "electron": "11.1.0",
     "electron-packager": "^15.2.0",
     "fs": "0.0.1-security"
